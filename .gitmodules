@@ -118,6 +118,6 @@
 [submodule "emacs.d/vendor/git-modes"]
   path = emacs.d/vendor/git-modes
         url = https://github.com/magit/git-modes.git
-[submodule "emacs.d/vender/helm"]
-  path = emacs.d/vender/helm
-  url = https://github.com/emacs-helm/helm.git
+[submodule "emacs.d/vendor/helm"]
+	path = emacs.d/vendor/helm
+	url = https://github.com/emacs-helm/helm.git
